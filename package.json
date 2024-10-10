@@ -4,7 +4,8 @@
   "description": "- hello world",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "build": "echo 'No build process defined'" 
   },
   "keywords": [],
   "author": "",
